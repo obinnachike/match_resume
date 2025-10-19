@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-core
+openai
+pypdf
+tiktoken
+aiofiles
+PyPDF2
+chromadb
+python-dotenv
+streamlit
+-e .

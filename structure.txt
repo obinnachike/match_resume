@@ -1,0 +1,32 @@
+.
+├── .DS_Store
+├── .env
+├── .gitignore
+├── Data
+│   └── Chike's CV.pdf
+├── README.md
+├── Resume_Matcher_Project.egg-info
+│   ├── PKG-INFO
+│   ├── SOURCES.txt
+│   ├── dependency_links.txt
+│   └── top_level.txt
+├── app.py
+├── db
+│   ├── 982a9398-66f2-47a5-8d45-9edf8eb335db
+│   │   ├── data_level0.bin
+│   │   ├── header.bin
+│   │   ├── length.bin
+│   │   └── link_lists.bin
+│   └── chroma.sqlite3
+├── requirements.txt
+├── research
+│   └── experiment.ipynb
+├── setup.py
+├── src
+│   ├── __init__.py
+│   ├── helper.py
+│   └── prompt.py
+├── structure.txt
+└── temp_resume.pdf
+
+7 directories, 23 files
