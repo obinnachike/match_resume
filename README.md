@@ -69,8 +69,8 @@
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/obinnachike/MATCH_RESUME.git
-cd MATCH_RESUME
+git clone https://github.com/obinnachike/match_resume
+cd match_resume
 ```
 
 ### 2. Create a virtual environment (optional but recommended)
