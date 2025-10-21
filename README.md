@@ -1,5 +1,5 @@
 
-<h1 align="center">🧠 Resume-Job Matcher</h1>
+<h1 align="center"> Resume-Job Matcher</h1>
 <p align="center">Smart Resume vs. Job Match Analyzer — Powered by AI</p>
 
 <p align="center">
@@ -11,11 +11,11 @@
 
 ---
 
-> 💼 AI-powered system that reads a candidate's resume, compares it to a job description, and provides detailed feedback, match scoring — using **LangChain**, **OpenAI**, and **ChromaDB**.
+>  AI-powered system that reads a candidate's resume, compares it to a job description, and provides detailed feedback, match scoring — using **LangChain**, **OpenAI**, and **ChromaDB**.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - ✅ Extract resume content from PDF
 - ✅ Chunk resume and job description using token-aware splitting
@@ -27,7 +27,7 @@
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 .
@@ -64,7 +64,7 @@
 
 ---
 
-## ⚙️ Setup
+##  Setup
 
 ### 1. Clone the repo
 
@@ -94,7 +94,7 @@ Create a `.env` file in the root directory:
 OPENAI_API_KEY=your_openai_api_key_here
 ```
 
-💡 **Note:** Never commit your `.env` file to Git. Add it to `.gitignore`.
+ **Note:** Never commit your `.env` file to Git. Add it to `.gitignore`.
 
 ---
 
@@ -123,7 +123,7 @@ OPENAI_API_KEY=your_openai_api_key_here
 
 ---
 
-## ✍️ Prompt Customization
+##  Prompt Customization
 
 Edit the file `src/prompt.py`:
 
@@ -180,7 +180,7 @@ for section, result in results:
 ---
 
 
-## 🙌 Acknowledgements
+##  Acknowledgements
 
 - [LangChain](https://www.langchain.com/)
 - [OpenAI](https://platform.openai.com/)
